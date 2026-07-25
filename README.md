@@ -13,4 +13,5 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Skills
 - Java, Python, JavaScript
-- HTML, CSS
+- HTML, CSS, React
+
